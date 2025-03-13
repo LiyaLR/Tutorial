@@ -1,4 +1,4 @@
-def OoE(num):
+def Odev(num):
     if num==0:
         print(f"{num} is zero.")
     elif num%2==0:
@@ -7,4 +7,4 @@ def OoE(num):
           print(f"{num} is odd.")
 
 num=int(input("Enter the number: "))
-check=OoE(num)
+check=Odev(num)
